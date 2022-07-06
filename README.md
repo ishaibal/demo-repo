@@ -4,4 +4,4 @@ Demo description...
 
 ## Subheader
 
-Following github tuts on youtube@freecodecamp.org
+Following github tuts on youtube channel of freecodecamp.org!
